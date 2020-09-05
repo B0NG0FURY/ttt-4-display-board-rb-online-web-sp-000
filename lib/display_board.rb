@@ -9,4 +9,3 @@ end
 
 
 # out the current state.
-display_board(tictactoe)
